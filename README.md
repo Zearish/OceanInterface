@@ -1,4 +1,4 @@
-# Welcome to OceanInterface
+# OceanInterface
 A OceanSplash documentary where you can use OceanSplash for your scripts
 ## Using the UI
 This is how you can use OceanSplash, and you have to add this on top of all your code.

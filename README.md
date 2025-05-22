@@ -359,7 +359,7 @@ OceanUI:CreateButton("Button", function()
 end)
 ```
 ### Creating Textboxes
-Now last, textboxes, or just inputs. Textboxes will have a callback but instead, that callback will be what the textboxes text is. (To explain more better, if textbox is changed to 5 by user, and the textbox is suppose to change your health on what the value (or text) of the textbox is, it will change to 5. Heres how you can add textboxes.
+Textboxes can change a value of something. Heres how you can use them.
 
 I also forgot to say, for textboxes to run, you have to click a button beside them :)
 ```lua
